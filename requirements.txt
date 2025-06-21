@@ -1,0 +1,9 @@
+flask
+yfinance
+pandas
+ta
+feedparser
+transformers
+torch
+pytz
+python-dateutil
